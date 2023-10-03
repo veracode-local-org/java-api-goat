@@ -4,3 +4,4 @@ A simple Java Spring Boot REST App with Vulnerabilities.
 s
 s
 s
+s
